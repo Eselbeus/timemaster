@@ -1,4 +1,4 @@
-require_relative "timemaster/version"
+require_relative "timemaster/version"  # Adjust the path based on where the file is located
 require 'date' 
 
 module Timemaster
